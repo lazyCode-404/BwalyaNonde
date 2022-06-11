@@ -4,11 +4,11 @@
 **BwalyaNonde/BwalyaNonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- 🔭 I’m currently working on ... Javascript
-- 🌱 I’m currently learning ... Javascript
+- 🔭 I’m currently working on ... JavaScript
+- 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... any small projects
 - 🤔 I’m looking for help with ... how to excel in my software development journey
-- 💬 Ask me about ... HTML, CSS and Java
+- 💬 Ask me about ... HTML, CSS and JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/bwalya-nonde-5865601a9/
 - ⚡ Fun fact: ... I love making networks.
 
