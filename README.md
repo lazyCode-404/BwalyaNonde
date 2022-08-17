@@ -26,7 +26,7 @@
 
 ### GitHub Status 
 
-[![Bwalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BwalyaNonde&show_icons=true&theme=radical)](https://github.com/BwalyaNonde/github-readme-stats)
+[![Bwalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazyCode-404&show_icons=true&theme=radical)](https://github.com/lazyCode-404/github-readme-stats)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=BwalyaNonde&theme=radical" alt="tedlivist" /></p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BwalyaNonde&theme=dracula)](https://github.com/Tchilo/github-readme-stats) -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lazyCode-404&theme=radical" alt="tedlivist" /></p>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCode-404&theme=dracula)](https://github.com/lazyCode-404/github-readme-stats) -->
